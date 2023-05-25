@@ -1,5 +1,5 @@
 # Psychological Counselling Center Management System
-Final Year Individual Project of the Degree: Successfully completed with an A grade.
+Final Year Individual Project of the Degree.
 
 An Automated Web-Based Software Solution to Manage the Counselling Center.
 
