@@ -1,5 +1,6 @@
 # Psychological Counselling Center Management System
-Final Year Individual Project of the Degree.
+
+Final Year Individual Project of the Degree @University of Colombo(UCSC): Successfully completed with an A grade.
 
 An Automated Web-Based Software Solution to Manage the Counselling Center.
 
