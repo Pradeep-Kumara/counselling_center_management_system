@@ -1,5 +1,0 @@
-INSERT INTO `user_role` (`iduser_role`, `role_name`, `role_description`, `status`) VALUES
-(1, 'Owner', 'System administrator', 1),
-(2, 'Counsellor', 'Counsellors', 1),
-(3, 'Employee', 'Front office staff', 1),
-(4, 'Client', 'Global Mind\'s clients', 1);
