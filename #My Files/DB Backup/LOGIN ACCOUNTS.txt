@@ -1,0 +1,32 @@
+ADMIN/Owner
+    UN: admin@gmail.com
+    PW: 123456
+
+
+
+
+CLIENT
+     UN: client@gmail.com
+     PW: 123456
+
+    
+
+
+EMPLOYEE
+    UN: employee@gmail.com
+    PW: 123456
+
+
+
+
+COUNSELLOR
+    UN: counsellor@gmail.com
+    PW: 123456
+
+
+
+
+
+
+
+

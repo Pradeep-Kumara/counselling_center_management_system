@@ -1,0 +1,12 @@
+
+Dashboard:All User Roles
+My Account:All
+Make Appointment:1,3,4
+Appointment Log:All
+Master Files:1,3
+Client Management:1,3
+User Management:1
+Payment Log:1,3
+GDF:1,2
+Category:1,2,3
+Reports:1,3
